@@ -4,11 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="1bedfbf8-7afd-4ec1-bea9-2b67ce5a9b23" name="Changes" comment="" />
+=======
+    <list default="true" id="1bedfbf8-7afd-4ec1-bea9-2b67ce5a9b23" name="Changes" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+>>>>>>> feature-get-user
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> staging
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,7 +43,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "main",
+=======
+    "git-widget-placeholder": "feature-post-user",
+>>>>>>> staging
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739295075478</updated>
-      <workItem from="1739295076171" duration="418000" />
+      <workItem from="1739295076171" duration="1857000" />
     </task>
     <servers />
   </component>
